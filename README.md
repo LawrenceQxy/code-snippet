@@ -1,2 +1,2 @@
 # code-snippet
-record some snippets whitch are useful
+To record any snippets whitch are useful
